@@ -21,8 +21,8 @@
 - 🎓 Mathematics Education graduate with a strong interest in Technology 
 - 💡 Passionate about learning & building real-world solutions through code  
 - 🧠 Transitioned into tech through self-study & hands-on projects  
-- 🔭 Currently working with: **Laravel** & **Flutter**
-- 🌱 Still learning: Clean Code, REST APIs, and UI Optimization  
+- 🔭 Currently working with:**Flutter**
+- 🌱 Still learning: Web Development With Laravel  
 - 📫 Reach me: [Portfolio](https://feriadrian-site.vercel.app) | [LinkedIn](#)
 - ⚡ Fun fact: Pernah ngoding sampai lupa makan (true story!)
 
